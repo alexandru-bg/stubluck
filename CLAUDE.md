@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-StubLuck — a push-your-luck ticket scalping card game running on an ESP8266 handheld device with a single button, ST7789 240x240 TFT display, and piezo buzzer. Written in C++ using the Arduino framework.
+StubLuck — a push-your-luck ticket card game running on an ESP8266 handheld device with a single button, ST7789 240x240 TFT display, and piezo buzzer. Written in C++ using the Arduino framework.
 
 ## Build Commands
 
