@@ -1,6 +1,6 @@
 # 🎟️ StubLuck
 
-> *A push-your-luck ticket scalping game for the ESP8266 — one button, one screen, and your entire bankroll on the line.*
+> *A push-your-luck game for the ESP8266 — one button, one screen, and your entire bankroll on the line.*
 
 ![Platform](https://img.shields.io/badge/platform-ESP8266-blue)
 ![Framework](https://img.shields.io/badge/framework-Arduino-teal)
